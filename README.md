@@ -1,4 +1,4 @@
-# chat-bubble 👋🤖🤙
+# chat-BOT 👋🤖🤙
 
 ## Versión npm y Descargas
 Interfaz de usuario de chatbot sencilla para la Web con secuencias de comandos JSON.
