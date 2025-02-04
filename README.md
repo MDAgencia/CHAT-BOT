@@ -10,9 +10,6 @@ Interfaz de usuario de chatbot sencilla para la Web con secuencias de comandos J
 - Sin dependencias.
 - Escrito en ES5 (compatible con IE11+).
 
-📸 **Captura de pantalla**
-
-📌 [Demostración](#) | 📺 [Video tutorial](#)
 
 ## Instalación
 
@@ -22,9 +19,6 @@ yarn add chat-bubble
 o
 npm install chat-bubble
 ```
-
-### Descarga Manual
-Obtenga el archivo `.ZIP` [aquí](#).
 
 ## Inicio rápido
 Este método supone que tiene un entorno de desarrollo que puede transpilar JavaScript de ES6. Consulte esta [guía](#) para configurarlo.
@@ -75,7 +69,7 @@ Si no desea configurar un servidor de desarrollo, simplemente descomprima el paq
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Mi Proyecto chat-bubble</title>
+    <title>Mi Proyecto chat-bot</title>
     <link rel="stylesheet" media="all" href="../styles/setup.css" />
     <link rel="stylesheet" media="all" href="../styles/says.css" />
     <link rel="stylesheet" media="all" href="../styles/reply.css" />
@@ -109,10 +103,6 @@ Ahora abra este archivo en su navegador. ¡Listo!
 ### ¿Puedo agregar imágenes y código HTML a mi bot?
 ¡Sí! Puedes agregar gráficos personalizados, videos de YouTube y más.
 
-### ¿Cómo puedo contribuir?
-Consulta nuestra [guía de contribuciones](#).
-
-☕ **Apóyanos**: Usa el botón "Patrocinador" en GitHub o a través de [Ko-fi](https://ko-fi.com/dmitrizzle).
 
 ## Compatibilidad con navegadores
 Es posible que necesites agregar polyfills para `Object.assign()` y `String.includes()` en navegadores antiguos.
